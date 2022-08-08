@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "892533988829",
+    "project_id": "national-transport-registery",
+    "storage_bucket": "national-transport-registery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892533988829:android:2951fcd8ad3c7a6f6aea34",
+        "android_client_info": {
+          "package_name": "com.thentr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892533988829-3qv5vd406slplgjbc9kdkscasiuq9sv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB3vcPGOE7ADPKAyNe2Zh7kacuZ43lOUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892533988829-3qv5vd406slplgjbc9kdkscasiuq9sv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892533988829-fu43s0jq4u5f6hlap9jqf9hjp4aanvbd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.the.ntr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

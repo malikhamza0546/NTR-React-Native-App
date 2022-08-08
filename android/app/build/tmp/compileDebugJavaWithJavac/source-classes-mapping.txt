@@ -1,0 +1,14 @@
+com/thentr/ReactNativeFlipper.java
+ com.thentr.ReactNativeFlipper
+ com.thentr.ReactNativeFlipper$1
+ com.thentr.ReactNativeFlipper$2
+ com.thentr.ReactNativeFlipper$2$1
+com/thentr/MainApplication.java
+ com.thentr.MainApplication
+ com.thentr.MainApplication$1
+com/thentr/MainActivity.java
+ com.thentr.MainActivity
+com/thentr/BuildConfig.java
+ com.thentr.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
